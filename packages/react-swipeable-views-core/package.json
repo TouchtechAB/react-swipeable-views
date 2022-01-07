@@ -1,6 +1,6 @@
 {
   "name": "@touchtech/react-swipeable-views-core",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "react-swipeable-views core modules",
   "main": "lib/index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"
-  }
+  },
+  "gitHead": "38f55937f1e12746e2f4c382d5b7834a49f54fa9"
 }
