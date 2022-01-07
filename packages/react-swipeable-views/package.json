@@ -1,6 +1,6 @@
 {
   "name": "@touchtech/react-swipeable-views",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A React component for swipeable views",
   "main": "lib/index.js",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0",
-    "@touchtech/react-swipeable-views-core": "^1.0.5",
-    "@touchtech/react-swipeable-views-utils": "^1.0.5",
+    "@touchtech/react-swipeable-views-core": "^1.0.6",
+    "@touchtech/react-swipeable-views-utils": "^1.0.6",
     "prop-types": "^15.5.4",
     "warning": "^4.0.1"
   },
